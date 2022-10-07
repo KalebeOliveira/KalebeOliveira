@@ -12,7 +12,7 @@ object **EU** {
  val acknowledgements = "Software Developer"
  
  val primarySkillset = "Full Stack"
- val stacks = listOf("JavaScript", "TypeScript", "NodeJs", "PHP", "React", "Vue") 
+ val stacks = listOf("NodeJs", "TypeScript", "JavaScript", "PHP", "React", "Vue") 
 
 }
 ```
