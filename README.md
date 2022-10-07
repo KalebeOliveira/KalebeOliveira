@@ -55,3 +55,7 @@ object **EU** {
 #### Rede Sociais!
 
 👔 [linkedin][linkedin] **|** 
+
+
+## Alguns projetos pessoais
+> My Ideias: https://myideias.herokuapp.com 
