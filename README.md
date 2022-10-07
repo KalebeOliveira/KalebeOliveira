@@ -59,4 +59,4 @@ object **EU** {
 
 #### Rede Sociais!
 
-👔 [linkedin][linkedin] **|** 
+👔 [linkedin][linkedin]
