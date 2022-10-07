@@ -48,6 +48,11 @@ object **EU** {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KalebeOliveira&show_icons=true&theme=dracula&line_height=27" alt="**Kalebe Oliveira** github stats"/>
 </a>
 
+
+## Alguns projetos pessoais
+> My Ideias: https://myideias.herokuapp.com 
+
+
 [linkedin]: https://www.linkedin.com/in/kalebe-oliveira-839133115/
 [website]: https://codedev.ga/
 <br>
@@ -55,7 +60,3 @@ object **EU** {
 #### Rede Sociais!
 
 👔 [linkedin][linkedin] **|** 
-
-
-## Alguns projetos pessoais
-> My Ideias: https://myideias.herokuapp.com 
