@@ -1,13 +1,13 @@
-### Oie.. Tudo bem? 👋
+### Hi! I'm Kalebe. 👋
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+As a passionate web software developer and AI enthusiast, I am constantly exploring new technologies and honing my skills. My passion has driven me to pursue expertise in Web Development, Artificial Intelligence, and Data Science. With a strong commitment to learning, I am always eager to take on complex challenges and new experiences.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-object **EU** {
+object **I** {
  val name = "Kalebe Oliveira"
  val acknowledgements = "Software Developer"
  
@@ -17,7 +17,7 @@ object **EU** {
 }
 ```
 
-## **Linguagens e Ferramentas:**  
+## **Languages and Frameworks:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -36,7 +36,7 @@ object **EU** {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-## **GitHub Estatísticas**
+## **GitHub Statistics**
 
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalebeOliveira&theme=dracula&hide_langs_below=1" />
