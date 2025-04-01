@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kalebe Oliveira</h1>
-<h3 align="justify">Passionate about technology and innovation, I build digital products that combine strategy, user experience, and artificial intelligence to create real impact. My focus is on understanding market needs, transforming ideas into scalable solutions, and leading product initiatives that drive business growth.</h3>
-<h3 align="justify">With a strong foundation in web development, I specialize in building efficient, high-performance, and well-structured applications, always exploring new technologies to deliver top-tier solutions. Additionally, I am an AI enthusiast, constantly following and applying advancements in artificial intelligence to optimize processes and create innovative experiences.</h3>
-<h3 align="justify">I am committed to continuous learning, tackling complex challenges, and striving for excellence in technology and product management.</h3>
+<p align="justify">Passionate about technology and innovation, I build digital products that combine strategy, user experience, and artificial intelligence to create real impact. My focus is on understanding market needs, transforming ideas into scalable solutions, and leading product initiatives that drive business growth.</p>
+<p align="justify">With a strong foundation in web development, I specialize in building efficient, high-performance, and well-structured applications, always exploring new technologies to deliver top-tier solutions. Additionally, I am an AI enthusiast, constantly following and applying advancements in artificial intelligence to optimize processes and create innovative experiences.</p>
+<p align="justify">I am committed to continuous learning, tackling complex challenges, and striving for excellence in technology and product management.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalebeoliveira&label=Profile%20views&color=0e75b6&style=flat" alt="kalebeoliveira" /> </p>
 
