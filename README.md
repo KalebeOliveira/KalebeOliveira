@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/teams%20led-4-2ea44f?style=flat-square" alt="4 teams led">
   <img src="https://img.shields.io/badge/pull%20requests-840%2B-2ea44f?style=flat-square" alt="840+ pull requests">
   <img src="https://img.shields.io/badge/code%20reviews-680%2B-2ea44f?style=flat-square" alt="680+ code reviews">
-  <img src="https://img.shields.io/badge/tickets%20delivered-500%2B-2ea44f?style=flat-square" alt="500+ tickets delivered">
+  <img src="https://img.shields.io/badge/tickets%20owned-500%2B-2ea44f?style=flat-square" alt="500+ tickets owned">
   <img src="https://img.shields.io/badge/repositories-45%2B-2ea44f?style=flat-square" alt="45+ repositories">
 </p>
 
