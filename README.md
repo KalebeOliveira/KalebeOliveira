@@ -22,7 +22,7 @@ Hands-on engineering leader: I run four product teams, review as much as I write
 | **Legacy systems that slow you down** | Assessment, migration plan, incremental modernisation, delivery pipeline, documentation | A production system moved off an end-of-life operating system; a fork kept current through 11 upstream releases |
 | **Manual operations that should be automatic** | Workflow automation, browser robots, integrations between CRM, WhatsApp, back office and suppliers | Scheduled pipelines syncing catalogue, price and availability; robots issuing documents where partners have no API |
 | **A platform you can trust at 3 a.m.** | CI/CD, tracing, metrics, logs and alerts, incident response, application hardening | Critical remote-code-execution CVEs patched the same day with zero downtime; incident commander on SEV-2 incidents |
-| **Commerce that converts and reconciles** | Checkout, payments, antifraud, 3DS, multi-currency, multi-tenant storefronts and CRM | Years running a high-volume commerce backend with several payment and antifraud providers |
+| **Commerce that converts and reconciles** | Checkout, payments, antifraud, 3DS, multi-currency, multi-tenant storefronts and CRM | Years maintaining a commerce backend integrated with several payment and antifraud providers |
 
 ---
 
@@ -32,7 +32,7 @@ Hands-on engineering leader: I run four product teams, review as much as I write
 840+   pull requests authored
 660+   pull requests reviewed, across 30 engineers
 3,700+ commits since 2021
-1,000+ tickets planned, tracked and delivered with my teams
+1,000+ tickets planned and tracked across my teams
 270+   pages of engineering documentation: RFCs, ADRs, specs, post-mortems
 45+    repositories
 ```
