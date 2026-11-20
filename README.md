@@ -2,27 +2,31 @@
 
 I help companies ship software and put AI to work, from strategy down to the code.
 
-Hands-on engineering leader: I run four product teams, review as much as I write, and still merge to production. Based in Buenos Aires, working in English, Spanish and Portuguese.
+Hands-on engineering leader: I lead product teams, review as much as I write, and still merge to production. Based in Buenos Aires.
 
 [LinkedIn](https://linkedin.com/in/kalebeoliveira) · [Writing on AI, product and code](https://medium.com/@iamkalebe)
 
 ---
 
-**Currently:** building an agentic development platform that takes a ticket to a reviewed pull request in an ephemeral container, with a human on every merge.
+### Areas of work
 
----
+**AI and autonomous agents**<br>
+Agents and multi-agent systems connected to real tools and APIs, LLM integration across providers, retrieval over company knowledge, governance, cost control and evaluation.
 
-### What I can do for your company
+**Software engineering**<br>
+Web systems, APIs in REST and GraphQL, SaaS and multi-tenant platforms, payments and antifraud, MVPs, and modernisation of legacy applications.
 
-| You need | What I do | Proof |
-| --- | --- | --- |
-| **AI that works in production, not in a demo** | Agents and multi-agent systems wired to your tools and APIs; one LLM layer across OpenAI, Anthropic, Gemini and Bedrock; governance, cost limits and evals | Sales and support agents live over chat and WhatsApp; provider switched per graph node with no deploy |
-| **A team that ships faster with AI** | Agentic development from ticket to pull request, subagents and shared skills, internal AI academy, usage policy | Enterprise AI tooling rolled out company-wide; recurring hands-on sessions for engineers |
-| **Technical leadership without a full-time hire** | Fractional CTO, tech lead or engineering manager: roadmap, architecture, hiring, career ladder, engineering process | Four teams and about eleven engineers led; RFC, ADR and spec process adopted across all of them |
-| **Legacy systems that slow you down** | Assessment, migration plan, incremental modernisation, delivery pipeline, documentation | A production system moved off an end-of-life operating system; a fork kept current through 11 upstream releases |
-| **Manual operations that should be automatic** | Workflow automation, browser robots, integrations between CRM, WhatsApp, back office and suppliers | Scheduled pipelines syncing catalogue, price and availability; robots issuing documents where partners have no API |
-| **A platform you can trust at 3 a.m.** | CI/CD, tracing, metrics, logs and alerts, incident response, application hardening | Critical remote-code-execution CVEs patched the same day with zero downtime; incident commander on SEV-2 incidents |
-| **Commerce that converts and reconciles** | Checkout, payments, antifraud, 3DS, multi-currency, multi-tenant storefronts and CRM | Years maintaining a commerce backend integrated with several payment and antifraud providers |
+**Engineering leadership**<br>
+Fractional CTO, tech lead and engineering management: roadmap, architecture, team structure, hiring, career ladders and engineering process.
+
+**Automation and integration**<br>
+Business process automation, workflows, browser robots, and integrations between CRM, messaging channels, back office and third-party providers.
+
+**Platform and reliability**<br>
+CI/CD, containers, observability with traces, metrics, logs and alerts, incident response, and application security.
+
+**AI adoption and training**<br>
+AI-assisted and agentic development for engineering teams, internal academies, workshops and mentoring.
 
 ---
 
@@ -71,4 +75,4 @@ Most of this lives in private repositories, so the contribution graph undersells
 
 ---
 
-Have a problem that fits one of the rows above? [Message me on LinkedIn](https://linkedin.com/in/kalebeoliveira).
+Want to talk? [Message me on LinkedIn](https://linkedin.com/in/kalebeoliveira).
