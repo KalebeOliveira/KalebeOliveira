@@ -1,8 +1,8 @@
 <h1 align="center">Kalebe Oliveira</h1>
 
 <p align="center">
-  <b>Software engineer working across product, platform and AI.</b><br>
-  I build and run the systems behind digital commerce: checkout and payments, supplier integrations, data pipelines and AI agents.
+  <b>Hands-on engineering leader working across product, platform and AI.</b><br>
+  I lead four product engineering teams and still ship code: commerce and payments, supplier integrations, data pipelines and AI agents in production.
 </p>
 
 <p align="center">
@@ -12,9 +12,10 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/teams%20led-4-2ea44f?style=flat-square" alt="4 teams led">
   <img src="https://img.shields.io/badge/pull%20requests-840%2B-2ea44f?style=flat-square" alt="840+ pull requests">
-  <img src="https://img.shields.io/badge/merged-95%25-2ea44f?style=flat-square" alt="95% merged">
   <img src="https://img.shields.io/badge/code%20reviews-680%2B-2ea44f?style=flat-square" alt="680+ code reviews">
+  <img src="https://img.shields.io/badge/tickets%20delivered-500%2B-2ea44f?style=flat-square" alt="500+ tickets delivered">
   <img src="https://img.shields.io/badge/repositories-45%2B-2ea44f?style=flat-square" alt="45+ repositories">
 </p>
 
@@ -22,33 +23,46 @@
 
 ---
 
-### What I work on
+### What I do
 
-**Commerce and payments**
-- Checkout, cart and order flows for multi-tenant, white-label storefronts
-- Payment capture, antifraud rules, installments, coupons and multi-currency pricing
-- Back-office tooling for operations, agencies and finance teams
+**Engineering leadership**
+- Lead four product engineering teams on two-week sprints, covering purchase experience, back office, integrations and AI
+- Wrote the technology career ladder, from engineer and specialist levels through tech lead, engineering manager and CTO
+- Defined one development flow for every repository: ticket, branch, small conventional commits, CI, AI review plus mandatory human review, and merge as the production deploy
+- Onboard and mentor engineers and data teams on that flow, and keep a brag document per person to make their impact visible
 
-**Integrations and automation**
-- Integrations with third-party suppliers for inventory, pricing and fulfilment
-- Scheduled pipelines that keep catalogue, price and availability data in sync
-- Browser automation (RPA) for partners that offer no API
+**Technical decision-making**
+- Introduced a spec-driven process: Technical Assessment, RFC, ADR and Spec before code
+- Built the shared documentation structure for it across teams, with more than 100 pages of standards, templates and decisions
+- Author RFCs and ADRs myself, from LLM provider abstraction to job-recovery strategy and data modelling
+
+**Incident command and reliability**
+- Incident commander and post-mortem author on production incidents: queue saturation, disk exhaustion, failed automations
+- Led the response to critical remote-code-execution CVEs in a language runtime: mitigated within hours and patched the same day with zero downtime, including a custom backported build where no vendor patch existed
+- Rolled out distributed tracing, metrics and logs with OpenTelemetry across services, with alerts delivered to chat
+- Root-cause work on hard failures, such as background jobs orphaned by deploys
 
 **AI in production**
 - Conversational agents for sales and customer service over chat and WhatsApp
-- A provider-agnostic LLM layer: the same agents run on OpenAI, Gemini or Claude, with tools bound by provider capability
+- A provider-agnostic LLM layer: the same agents run on OpenAI, Gemini or Claude, switched per graph node with no deploy
 - Recommendation and cart-building assistants, with observability on what the agent did
-- Agentic engineering: a harness that takes a ticket from trigger to pull request in ephemeral containers, with shared skills, conventions and evals built from resolved tickets
+- An agentic development platform that takes a ticket from trigger to draft pull request in ephemeral containers, with AI review, human merge, and cost, tokens and time measured per run
+
+**AI enablement**
+- Rolled out enterprise AI tooling company-wide, with usage tracking
+- Run short recurring sessions teaching engineers practical agent workflows, and planned an internal AI academy
+- Built automations that read tickets, pull requests and absences to send daily team briefings and sprint-readiness reviews
+
+**Commerce, integrations and data**
+- Checkout, cart and order flows for multi-tenant, white-label storefronts
+- Payment capture, antifraud rules, installments, coupons, campaigns and multi-currency pricing
+- Supplier integrations and scheduled pipelines that keep catalogue, price and availability in sync
+- Browser automation (RPA) for partners that offer no API
+- An engineering-metrics platform collecting delivery, flow, quality and incident data from tickets, code, observability and docs
 
 **Customer platforms**
 - Omnichannel support platform kept in sync with its open-source upstream while preserving custom features
-- Multi-tenant CRM with campaigns, billing and tracking
-
-**Platform and reliability**
-- CI/CD with lint, test and deploy gates on every pull request
-- Containerised services on AWS (ECS, S3, CloudFront, SES) and Google Cloud Run, managed through GitOps
-- Distributed tracing and metrics with OpenTelemetry
-- Security patching, including runtime upgrades in response to CVEs
+- Multi-tenant CRM, and migrations that consolidate channels and retire paid tools
 
 ---
 
@@ -59,7 +73,7 @@
 | **2021** | Web fundamentals, PHP with Laravel, mobile apps with Flutter |
 | **2022 – 2023** | Full-stack product work: REST APIs, a web app and mobile clients; Node.js and TypeScript services |
 | **2024 – 2025** | High-volume commerce backend: payments, supplier integrations, data automation, first AI agents in production |
-| **2026** | AI platform and agentic engineering, observability, CI/CD and infrastructure across many services |
+| **2026** | Engineering leadership across four teams: process, career ladder, incident command, observability and an agentic development platform |
 
 ---
 
@@ -95,6 +109,7 @@
 **AI and data**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square)
@@ -104,6 +119,7 @@
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
@@ -112,9 +128,11 @@
 
 ### How I work
 
+- Decide in writing first: assessment, RFC, ADR, spec, then code
 - Small pull requests, shipped often, with conventional commits
-- Review as much as I write
-- Automate the gate: lint, tests and deploy checks run before a human has to ask
-- Treat AI agents like any other production system: observable, evaluated and reversible
+- Review as much as I write, and answer every review comment
+- Whoever merges watches the deploy, and reverts if it breaks
+- Every incident ends in a blameless post-mortem with an action plan
+- Treat AI agents like any other production system: observable, evaluated and reversible, with a human on the merge
 
 <p align="center"><sub>I write about AI, product and code on <a href="https://medium.com/@iamkalebe">Medium</a>.</sub></p>
